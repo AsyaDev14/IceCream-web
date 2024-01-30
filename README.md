@@ -1,2 +1,3 @@
-# test-ice
+# Adaptive design 
+Ice-cream store 
  
